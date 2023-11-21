@@ -1,0 +1,20 @@
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+
+
+.content-wrapper {
+    background-color: #00365A;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    width: 50%;
+
+}
